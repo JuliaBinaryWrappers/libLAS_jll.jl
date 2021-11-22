@@ -1,0 +1,236 @@
+[[libLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96c4380411f13938ab71af4347bfbf378762d8c7"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "7d8b8a0926d6f17f548e1e9043d7458eb9eb474e57aed1353fa03037797188dd"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[libLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d2cd74946ebe91502e47aaffba9d1638fc2636b"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "06515734c499022fe59ba4dfa14fee8e19a37e6cfa7414f962b4c0834323c77a"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[libLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "768005c1116e65b369ea2a00da441756bfb72260"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "9d38948dace9d9bc1eeddbb6006dec199fe27f8df2637e91b49551e4cb631c85"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[libLAS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fd688ad8a1830dbaf9209561aebb646ade4a2aef"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "95c8b0def4f85d9d955e80cc5e61d06eeacab36d67f2b61ed9310483f68d9fe6"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[libLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca402e8c383dfcb5e7a31547ad62f273d1a48262"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "5dfae07221c4208174c73c07cccc265892010555ceadffd27ae0a256842e959f"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f400972c887ad04f3dd93f1aacfc910359f1dff"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "d7402846e75e7587b6842ff16d22f9fea78f867ac0e23798b9f887716d78490e"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1c6d005071c6ed9741765447621be23cca0950f"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "03917a89a73c7cc3f975e8767428cc70cc718d77e48fd3672979878e5204df0b"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libLAS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae69848c978d5690cf71bea3c59c201844c5d811"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "7fe6c4f8617aa36f0ea9ba1ac514bb9f4d361cd12f4ed46368b37ecf4e8b493a"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libLAS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4902125892d445f3811708faf6b7143979e7caf2"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "e7c0479257b8a3f80e6040cfcf341506fe948a04c0677fe1e93aa9dd6f5a38dd"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[libLAS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f109878d07743d8edfc521953c3dfaf7dee6a3bb"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "913947f92781601712dadfbb35c8d823a959b48888604283a065014074a9f095"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[libLAS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f4f1970c184e1a1bdf42c547e6c116047e64fe3"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "42f997f723e1e9f6b2840d510e9580dee3a22b493209e42f5fe2a06e2dd05a68"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[libLAS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "41916ae81161f04473365f57b07ca226e77b2c11"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "a18d9c736b9055655460c810f511b7bb06643d96617c1400389520a2476fa617"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[libLAS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4adeeff0c92b3bcfa5e8b9826bb46921bd13bf8f"
+os = "windows"
+
+    [[libLAS.download]]
+    sha256 = "dd15b9f4477b8215f43b6b7757b7c3039aa0e8999fd784c5700827ac61594c7d"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[libLAS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b367e24b79776bdf8fdb1fbb35769b557e0c1907"
+os = "windows"
+
+    [[libLAS.download]]
+    sha256 = "a6a321905b53dee3c3df13f702662ddfec6993bb6c4c6983e5a4851a6693ba6d"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[libLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7924b29a4df0f2b53cb59276411987d4981875bf"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "94a009708116b987c25fdbdcd81589c9a06aaaa3e6736e6bbfeb2b81dffcc9b9"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libLAS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d20d69e70ba27f2c0b1ba12c34a1c16a3b58c285"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "16512c25ca133fc2c13516e84846813e55a9eb2f402bab46751ea68a1fb60eb4"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+git-tree-sha1 = "f2c094c573571564e701fed52b6b08d050bf5877"
+os = "macos"
+
+    [[libLAS.download]]
+    sha256 = "1944ed14ac676eaf0f28752f05f770a5f5af3aea0643e3476bacf773fab222bc"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c66040d1cf08ece382b729bf2055344fc3f2894c"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "aee4b819944571558b89f079f53e54e0920951a2224fec067a1e5c8850c0312e"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b95d6d65ea081ac51a2653875f1ed135c0f76b60"
+libc = "glibc"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "b2b9150f13c9f7927d18be490807a22c31e1a7d1ea608e93a6b2724ae449b3da"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1115d300db2e220788fe6b5fa33029b01a5dc998"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "64a093d78947ef6c3c74a7b4cef5fb8196d97a6748e7bdfc5ccbc67de0c954ec"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "75f68ab483cbc623febcba34ba964354b77377e3"
+libc = "musl"
+os = "linux"
+
+    [[libLAS.download]]
+    sha256 = "afd3d79dd3fd5779f612bf147753649f77b2ca189f7b8517359bc5ea3b9f557e"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+git-tree-sha1 = "d41855d2efe4d467127e20ed9998d1471a4b018e"
+os = "freebsd"
+
+    [[libLAS.download]]
+    sha256 = "7f8228f34ed2ebc714f3cb827af515c5155fb96216f8b7badf2b359f8a3e7f5d"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9a077c105fd73385a4bd2b51a3338b84f4a3cd0"
+os = "windows"
+
+    [[libLAS.download]]
+    sha256 = "2eed4bcbb3e553705aec834f2e7c22f61d5939b6f1e71837375718ddce3adc41"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libLAS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba27cfac4c7ecd0ea8b7454a0a39b87af1719f2f"
+os = "windows"
+
+    [[libLAS.download]]
+    sha256 = "86d4065141ba6ff23f90cdf7bb0ed1b54522b374014b2190543f94b221960256"
+    url = "https://github.com/JuliaBinaryWrappers/libLAS_jll.jl/releases/download/libLAS-v0.1.0+0/libLAS.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"

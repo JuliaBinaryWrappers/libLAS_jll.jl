@@ -1,0 +1,18 @@
+name = "libLAS_jll"
+uuid = "84dbc9eb-108a-5969-a599-69afb4e6b6ac"
+version = "0.1.0+0"
+
+[deps]
+PROJ_jll = "58948b4f-47e0-5654-a9ad-f609743f8632"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+GDAL_jll = "a7073274-a066-55f0-b90d-d619367d196c"
+libgeotiff_jll = "06c338fa-64ff-565b-ac2f-249532af990e"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+boost_jll = "=1.76.0"
